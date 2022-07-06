@@ -50,7 +50,6 @@ body {
   font-size: 45px;
 }
 .donate-artical p {
-  font-size: 23px;
   color: #707070;
 }
 .donate-amount-container {
@@ -99,6 +98,10 @@ body {
 .donate-plan-artical h1 {
   font-size: 45px;
 }
+.donate-plan-artical p {
+  font-family: "Poppins";
+}
+
 .donate-plan-item {
   border-radius: 5px;
   width: 20%;
